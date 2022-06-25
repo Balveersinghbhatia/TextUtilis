@@ -1,0 +1,25 @@
+What is React Router?
+React Router is a fully-featured client and server-side routing library for React, a JavaScript library for building user interfaces. React Router runs anywhere React runs; on the web, on the server with node.js, and on React Native.
+
+In layment terms
+It is a library which is used for routing purpose.
+Routing means where to route (send).
+It is used for making SPA' Single page application
+
+SPA is an app where all pages are loaded with reloading the page.
+Only the components which are changing are loaded.
+
+
+<div id="himalayanRootsInfo" style="padding: 4rem 0rem;margin: 10px auto;max-width: 1400px;" class="two-col">
+    <div class="container"> 
+    <div class="two-col__wrap">
+        <div class="two-col__intro "> 
+    <h2> The Himalayan Roots </h2>
+    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. At, iusto. Autem inventore quod labore atque distinctio at non corrupti ipsum hic exercitationem iure animi deleniti officia illum ipsam molestias nostrum id ab maxime error, magnam cum rem modi? Debitis blanditiis velit similique eius nostrum quas illo minima quod! Illo labore, ducimus quos commodi quibusdam nemo quo. </p>
+            <a href="#" class="btn btn-lg btn-primary">Learn More</a>
+</div>
+        <div style="background-image: url(&quot;https://explore-share.imgix.net/wp-content/uploads/2018/02/hiking_romania.jpg&quot;);background-size: contain;background-repeat: no-repeat;" class="two-col__img"> 
+</div>
+        </div>
+    </div>
+</div>

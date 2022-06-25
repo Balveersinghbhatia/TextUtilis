@@ -1,0 +1,26 @@
+.about{
+	padding:40px;
+	border:1px solid black;
+}
+h1{
+	margin:0 0 25px 0;
+}
+img{
+	border-radius: 3%;
+}
+@media screen  and (min-width:1300px){
+	img{
+		height:75vh
+	}
+		
+}
+@media screen and (max-width:550px){
+	.about{
+		font-size: 1.1rem;
+	}
+	.btn{
+		margin:20px auto !important;
+	
+		display: block;
+	}
+}

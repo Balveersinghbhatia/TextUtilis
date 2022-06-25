@@ -1,0 +1,36 @@
+/* utility classes */
+.darkhome{
+	background-color: gray !important;
+	border:1px solid white !important;
+	color: white !important;
+}
+.lighthome{
+	background-color: white !important;
+	border:1px solid black !important;
+}
+/* .redhome{
+	background-color:rgb(201, 0, 0) !important ;
+	color:white !important;
+	border:1px solid white !important;
+}
+.greenhome{
+	background-color: green !important;
+	color: white !important;
+	border:1px solid white !important;
+} */
+@media screen and (max-width:550px)
+{
+	.btn{
+		width: 33vw;
+		display: inline-block;
+	}
+	.hideOnMobile{
+		display: none;
+	}
+	#buttonsDiv{
+		display: flex;
+		flex-direction: row;
+		flex-wrap: wrap;
+		/* background-color: red !important; */
+	}
+}
